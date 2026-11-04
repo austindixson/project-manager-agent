@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "displayName": "Project Manager Agent",
   "description": "Monitors active sub-agents, detects stalls, provides status updates, and steers stuck agents via sessions_send. Configurable thresholds and cooldowns.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "tags": [
     "monitoring",
     "automation",

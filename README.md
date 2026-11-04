@@ -18,7 +18,7 @@ Monitors active OpenClaw sub-agents, detects stalls and failures, provides statu
 ```bash
 clawhub install project-manager-agent
 # or:
-git clone https://github.com/RuneweaverStudios/project-manager-agent.git
+git clone https://github.com/austindixson/project-manager-agent.git
 cp -r project-manager-agent ~/.openclaw/workspace/skills/
 ```
 
